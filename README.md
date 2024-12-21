@@ -1,3 +1,2 @@
-# Simple Handmade URL-Shorter🤍
-
+# Links Shorter
 
